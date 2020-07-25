@@ -11,8 +11,8 @@ I'm a Windows Application developer, I'd like to make some contributions for .ne
 
 
 ### Company
-- WPS Office (2015-2018)
 - HUYA Inc. (2019- )
+- WPS Office (2015-2018)
 
 <!--
 **ehnap/ehnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
