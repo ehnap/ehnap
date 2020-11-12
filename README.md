@@ -11,7 +11,8 @@ I'm a Windows Application developer, I'd like to make some contributions for .ne
 
 
 ### Company
-- HUYA Inc. (2019- )
+- Tencent (2020-)
+- HUYA Inc. (2019-2020)
 - WPS Office (2015-2018)
 
 <!--
